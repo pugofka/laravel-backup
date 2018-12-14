@@ -1,5 +1,5 @@
 {
-    "name": "pugofka/laravel-backup",
+    "name": "spatie/laravel-backup",
     "description": "A Laravel 5 package to backup your application",
     "keywords": [
         "spatie",
@@ -7,7 +7,7 @@
         "database",
         "laravel-backup"
     ],
-    "homepage": "https://github.com/pugofka/laravel-backup",
+    "homepage": "https://github.com/spatie/laravel-backup",
     "license": "MIT",
     "authors": [
         {
